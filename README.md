@@ -8,4 +8,4 @@ The notebook is loaded into a Google Colab and can be accessed by clicking the f
 [Click to open the interactive version of the notebook](https://colab.research.google.com/drive/1GRYx93RsrvINVrh4kcLbA3ZMVQdQ09Zk)
 
 It will show an example of how to easily access data using Python from EMODnet Physics' ERDDAP.
-The notebook will focus on accessing and visualizing data regarding the flooding event that took place in Valencia the 29th of October 2024.
+The notebook will focus on accessing and visualizing data regarding the flooding event that took place in Valencia at the end of October 2024.
