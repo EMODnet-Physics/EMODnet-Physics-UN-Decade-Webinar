@@ -5,7 +5,7 @@ This repository contains the .ipynb file used for the presentation and a power p
 
 The notebook is loaded into a Google Colab and can be accessed by clicking the following link:
 
-[EMODnet Physics' Google Colab](https://colab.research.google.com/drive/1GRYx93RsrvINVrh4kcLbA3ZMVQdQ09Zk)
+[Click to open the interactive version of the notebook](https://colab.research.google.com/drive/1GRYx93RsrvINVrh4kcLbA3ZMVQdQ09Zk)
 
 It will show an example of how to easily access data using Python from EMODnet Physics' ERDDAP.
 The notebook will focus on accessing and visualizing data regarding the flooding event that took place in Valencia the 29th of October 2024.
